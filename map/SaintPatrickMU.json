@@ -1,0 +1,12 @@
+{
+    "__class": "ContentAuthorizationEntry",
+    "duration": 300,
+    "changelist": 280634,
+    "urls": {
+        "jmcs://jd-contents/SaintPatrickMU/SaintPatrickMU_ULTRA.webm": "https://cdn.glitch.com/199724a9-3447-49e8-b0b9-1eeda7c51385/SaintPatrickMU_ULTRA.webm",
+        "jmcs://jd-contents/SaintPatrickMU/SaintPatrickMU_MID.webm": "https://cdn.glitch.com/199724a9-3447-49e8-b0b9-1eeda7c51385/SaintPatrickMU_MID.webm",
+        "jmcs://jd-contents/SaintPatrickMU/SaintPatrickMU_LOW.webm": "https://cdn.glitch.com/199724a9-3447-49e8-b0b9-1eeda7c51385/SaintPatrickMU_LOW.webm",
+        "jmcs://jd-contents/SaintPatrickMU/SaintPatrickMU_HIGH.webm": "https://cdn.glitch.com/199724a9-3447-49e8-b0b9-1eeda7c51385/SaintPatrickMU_HIGH.webm",
+        "jmcs://jd-contents/SaintPatrickMU/SaintPatrickMU.ogg": "https://cdn.glitch.com/199724a9-3447-49e8-b0b9-1eeda7c51385/SaintPatrickMU.ogg"
+    }
+}
